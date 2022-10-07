@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rgk
 - 👀 I’m interested in ... Everything JavaScript, specifically Node.js+ and also Redis!
-- 🌱 I’m currently learning ... WebTransport, Lua and keeping up with JS!
+- 🌱 I’m currently learning ... WebTransport, Lua and keeping up with JS.
 - 💞️ I’m looking to collaborate on ... Game Jams, benchmarks and anything I find useful.
 - 📫 How to reach me ... https://madgizmo.com/
 
