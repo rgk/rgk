@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Game Jams, benchmarks and anything I find useful.
 - 📫 How to reach me ... https://madgizmo.com/
 
-![rgk's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgk&theme=radical&border_radius=9&show_icons=true)
+![rgk's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgk&theme=radical&border_radius=9&show_icons=true&hide_rank=true)
 
 <!---
 rgk/rgk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
